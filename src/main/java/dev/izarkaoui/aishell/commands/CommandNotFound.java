@@ -1,4 +1,4 @@
-package dev.izarkaoui.aishell.shell;
+package dev.izarkaoui.aishell.commands;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

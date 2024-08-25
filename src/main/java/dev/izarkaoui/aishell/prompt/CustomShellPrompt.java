@@ -1,4 +1,4 @@
-package dev.izarkaoui.aishell.shell;
+package dev.izarkaoui.aishell.prompt;
 
 import org.jline.utils.AttributedString;
 import org.springframework.context.annotation.Configuration;
